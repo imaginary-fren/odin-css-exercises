@@ -1,0 +1,15 @@
+/* classes */
+.dark,
+.bright {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.dark {
+background-color: rgb(17, 7, 7);
+color: white;
+}
+
+.bright {
+background-color: rgb(244, 244, 104);
+}
